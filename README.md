@@ -1,6 +1,12 @@
 Test First Ruby -- RSpec 3 Edition
 ==========
 
+
+fin du projet TDD : pair-programming
+fenositraka : luc34fenos
+yves john : 
+
+
 ### Set up instructions
 
 1. Fork this repo
@@ -50,3 +56,5 @@ Basically, this is "error-driven development"... you'll keep running tests, hitt
 ### Credit
 
 This is forked from [https://github.com/alexch/learn_ruby](https://github.com/alexch/learn_ruby), its original creator.
+
+
